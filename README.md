@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.com/walteravelino/Projetos.svg?branch=master)](https://travis-ci.com/walteravelino/Projetos)
 <img src = "https://img.shields.io/github/languages/top/walteravelino/SwiftFlappyBird">
-
+<a href="https://github.com/walteravelino/Projetos/blob/master/LICENSE"><img src = "https://img.shields.io/github/license/walteravelino/Projetos"></a>
 
 <img src = "https://github.com/walteravelino/Posts/blob/master/images/mapp3.png">
 
